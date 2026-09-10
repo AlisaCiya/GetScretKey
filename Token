@@ -1,25 +1,5 @@
-HTTP/1.1 200 
-Server: API-Gateway
-Date: Thu, 10 Sep 2026 09:43:10 GMT
-Content-Type: application/json;charset=UTF-8
-Transfer-Encoding: chunked
-Connection: keep-alive
-Trace-Id: f7068347cda24deab74539e4804762a7
-Access-Control-Allow-Origin: *
-Access-Control-Max-Age: 86400
-Access-Control-Allow-Methods: GET, PUT, DELETE, POST, HEAD
-Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept, Authorization, x-csrf-token, Access-Control-Allow-Origin, welinkToken, X-HW-ID, X-HW-APPKEY
-Access-Control-Allow-Credentials: true
-Vary: Accept-Encoding
-Access-Control-Expose-Headers: x-login-url,x-login-service,x-login-appid
-x-login-url: https://uniportal.beta.xfusion.com/uniportal1
-x-login-appid: v=V2.2.0&x_app_id=518c3d00285a4a608a2828dfc74b8036
-Cache-Control: no-cache,no-store,max-age=0
-Expires: Thu, 01 Jan 1970 00:00:00 GMT
-Pragma: no-cache
-X-Server-Process-Time: 0.2489
-X-Upstream-Process-Time: 0.2479
-X-ALB-SERVER: ALB
-Content-Encoding: gzip
-
-{"result":"success","msg":"","data":""}
+RAcQE4fgmywwu2OvPVBLoBaeXfufqUqtjLmwOwWrcfaCoPvzTXEjmi7mmFL0YtbbWdmCezly9QxO
+dXxoe4WU3vVoEx6I5aEVlLW+5GN+DDPk4/rFFCElBfvIRmOprP/6rA3IX61Goy0NJzdH0ox5+lkP
+/9mbKwEiUNruLQs79zvPwnRcMN4W1IUvtmFg+xNBgGKj/UpT07XT8UdHLKfBkwKsNRpepdItLN0r
+cNipdoFKzxcAFz39bQolyLR95g5DmHh0kb0PWPXEcftF62w/t9tI3zQRa5b0tEliaQmAdUNIt7q5
+3tUbM6/paUQ547LhaPw=
