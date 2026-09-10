@@ -1,5 +1,20 @@
-2iB5FeA2uz4zNnh3ntCxcFsIdde4paERYNBK0wv3qvu5q1GfuvouLZfs5ilDB1CmCh4c8fcxHpFR
-yIPU8TDT+k5hGeM+fSUDAFI9eOnVlwAIjRi8Rrl9ncHAyOF74Cm6aYrexZBgrYmnp7q8vaIYA/Ls
-7XdYag90F5MY82zO5bpoqVXquTq89kbySKsmHQqOsg4I/U1bZXPBCPQSN2htvz8OW07Ws/1nG0Y5
-5W0AqvhLIqofbzim4cemahbLHDS7IEiT1s/EOVHNewNi+zdt9EWX/gLehRGTZfh2aIfqmBogDaG3
-0OI8pJvSnrJXhDIlb3U=
+POST /api/overseascard/services/rest/welink/clock/location/remind?X-HW-ID=518c3d00285a4a608a2828dfc74b8036 HTTP/1.1
+Host: apig.xfusion.com
+Connection: keep-alive
+Content-Length: 49
+sec-ch-ua-platform: "Android"
+User-Agent: Mozilla/5.0 (Linux; Android 16; PLR110 Build/BP2A.250605.015; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/132.0.6834.152 Mobile Safari/537.36 Lark/7.71.8 LarkLocale/zh_CN ChannelName/Feishu appid/482431; appname/Feishu; TTWebView/1321130066540
+Accept: application/json, text/plain, */*
+sec-ch-ua: "Not A(Brand";v="8", "Chromium";v="132", "Android WebView";v="132"
+Content-Type: application/json
+welinkToken: eyJ0eXAiOiJKV1QiLCJ0eXBlIjoiSldUIiwiYWxnIjoiSFMyNTYifQ.eyJpc3MiOiJIVyIsImV4cCI6MTc4OTA0MDU4NSwiaWF0IjoxNzg5MDMzMzg1LCJlbXBsb3llZU51bWJlciI6IjAwMDUzMTYzIn0.uvqA9v_GD6rGXYpGYlJIPhZsawXsF0ZF64_-0ZJsPrM
+sec-ch-ua-mobile: ?1
+Origin: https://hrtool.xfusion.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://hrtool.xfusion.com/
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"latitude":"34.822423","longitude":"113.738447"}
